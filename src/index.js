@@ -19,6 +19,7 @@ root.render(
     <About />
     <Skills />
     <Services />
+    <Projects />
     <Contact />
     <Footer />
   </React.StrictMode>
