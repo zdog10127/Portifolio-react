@@ -3,7 +3,6 @@ import Clock from './clock.js'
 import MenuColor from './menuColor.js';
 import Tema from './Tema.js';
 import { useEffect } from 'react';
-import Icon from './assets/img-icon.png';
 
 export default function Header() {
 

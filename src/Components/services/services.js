@@ -6,9 +6,9 @@ export default function Servicer() {
             <h3 class="title-page">Serviços</h3>
             <div class="container-services">
                 <div class="item-services">
-                    <i class="fa fa-gear" id="icon-services"></i>
-                    <h3>Automação</h3>
-                    <p>Criação de bots e automação de tarefas repetitivas</p>
+                    <i class="fa fa-code" id="icon-services"></i>
+                    <h3>APIs</h3>
+                    <p>Criação de APIs com funcionamento para sites</p>
                 </div>
                 <div class="item-services">
                     <i class="fa fa-code" id="icon-services"></i>

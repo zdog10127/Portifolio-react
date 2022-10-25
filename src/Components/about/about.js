@@ -1,4 +1,4 @@
-import icon from '../header/assets/img-icon.png';
+import icon from '../header/assets/img-icon.jpg';
 import Curriculo from './assets/Curriculo.pdf'
 import './about.css';
 
@@ -8,7 +8,7 @@ export default function About() {
             <h2 class="title-page">Sobre mim</h2>
             <div class="about-section">
                 <div class="left-img">
-                    <img src="" class="img-about" alt="icon"></img>
+                    <img src={icon} class="img-about" alt="icon"></img>
                 </div>
                 <div class="right-text">
                     <div class="texto-about">

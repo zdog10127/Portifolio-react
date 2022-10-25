@@ -19,7 +19,7 @@ footer {
 
 #icon-linkedin,
 #icon-github,
-#icon-twitter,
+#icon-instagram,
 #icon-whatsapp {
     color: #fff;
     font-size: 35px;
@@ -35,8 +35,8 @@ footer {
     color: black;
 }
 
-#icon-twitter:hover {
-    color: rgb(20, 173, 233);
+#icon-instagram:hover {
+    color: rgb(190, 11, 160);
 }
 
 #icon-whatsapp:hover {
